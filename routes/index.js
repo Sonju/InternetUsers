@@ -1,13 +1,13 @@
 var express = require('express');
-var controller = express.Router();
+var router = express.Router();
 
 /* GET home page. */
-controller.get('/', function(req, res, next) {
+router.get('/', function(req, res, next) {
   res.render('index', { title: 'Africa Mobile Subscriptions API' });
 });
 
 // GET Angular View Page
-controller.get('/api', function(req, res, next) {
+router.get('/api', function(req, res, next) {
   res.json({"test": "hi"})
 });
 
