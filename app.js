@@ -5,9 +5,16 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var routes = require('./routes/index');
-var users = require('./routes/users');
+// require mongodb & model
+require('./models/db');
+require('./models/country');
 
+
+// controllers - changed folder routes to controller
+var routes = require('./controllers/index');
+var countries = require('./controllers/countries');
+
+// start app
 var app = express();
 
 // view engine setup
@@ -24,7 +31,8 @@ app.use(require('stylus').middleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
-app.use('/users', users);
+app.use('/countries', countries); // countries controller will be mapped to index '/countries'
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

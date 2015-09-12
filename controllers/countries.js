@@ -1,7 +1,7 @@
 var express = require('express');
 var controller = express.Router();
 
-var countriesModel = require('../models/Countries');
+var countryModel = require('../models/Country');
 var bodyParser = require('body-parser');
 
 /* API */
@@ -9,7 +9,7 @@ var bodyParser = require('body-parser');
 // get all countries
 controller.get('/', function(req, res, next) {
 
-  countriesModel.find(function() {
+  countryModel.find(function(error, countries) {
     if (error) return error;
     res.json(countries);
   });
