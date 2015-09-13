@@ -6,7 +6,7 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Africa Mobile Subscriptions API' });
 });
 
-// GET Angular View Page
+// GET angular view page
 router.get('/api', function(req, res, next) {
   res.json({"test": "hi"})
 });

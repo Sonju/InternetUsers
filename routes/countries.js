@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 
 /* API */
 
-// get all countries
+// Get all countries
 router.get('/', function(req, res, next) {
 
   countryModel.find(function(error, countries) {
