@@ -1,0 +1,30 @@
+
+
+
+  <h1><%= title %></h1>
+  <p>Welcome to <%= title %></p>
+
+<section ng-app="africaApp">
+
+
+  <h2>Search by Country<h2>
+    <form ng-submit="search(country)" class="search" action="index.html" method="post">
+      <input type="button" name="country" ng-model="country" placeholder="country name">
+    </form>
+
+<hr />
+
+  <table ng-controller="countriesController">
+    <tr>
+      <th>Country Name</th>
+        <th>Subscriptions (per 100)</th>
+          <th>Year</th>
+    </tr>
+    <tr ng-repeat="countries in country">
+      <td> {{ countries.country }} </td>
+        <td> {{ countries.value }} </td>
+          <td> {{ countries.year }} </td>
+    </tr>
+  </table>
+
+</section>
