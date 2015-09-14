@@ -8,7 +8,7 @@ var countryModel = require('../models/CountrySchema');  // models/CountrySchema.
 
 // Get countries view page
 // get all countries
-controller.get('/api/countries', function(req, res, next) {
+controller.get('/api', function(req, res, next) {
 
   // use our model to find all countries
   countryModel.find(function(error, countries) {

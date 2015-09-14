@@ -6,6 +6,10 @@ controller.get('/', function(req, res, next) {
   res.render('index', { title: 'Africa Mobile Subscriptions API' });
 });
 
+controller.get('/table', function(req, res, next) {
+  res.render('countries', { title: 'Africa Mobile Subscriptions API' });
+});
+
 /* GET angular view page */
 controller.get('/api', function(req, res, next) {
   res.json({"test": "hi"})
