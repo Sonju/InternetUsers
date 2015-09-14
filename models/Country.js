@@ -10,8 +10,8 @@ var CountrySchema = new mongoose.Schema({
 
 
 // var Country = {
-//   year: "2013",
 //   name: "Kenya",
+//   year: "2013",
 //   value: 97
 // };
 //

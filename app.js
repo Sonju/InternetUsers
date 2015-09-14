@@ -9,9 +9,9 @@ var bodyParser = require('body-parser');
 require('./models/db');
 
 
-// routes
-var routes = require('./routes/index');
-var countries = require('./routes/countries');
+// controller = changed folder routes to controllers
+var routes = require('./controllers/index');
+var countries = require('./controllers/countries');
 
 // start app
 var app = express();

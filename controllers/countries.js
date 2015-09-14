@@ -1,5 +1,5 @@
 var express = require('express');
-var controller = express.Router();
+var router = express.Router();
 
 var countryModel = require('../models/Country');
 var bodyParser = require('body-parser');
@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 /* API */
 
 // Get all countries
-controller.get('/', function(req, res, next) {
+router.get('/', function(req, res, next) {
 
   countryModel.find(function(error, countries) {
     if (error) return error;
@@ -15,4 +15,4 @@ controller.get('/', function(req, res, next) {
   });
 });
 
-module.exports = controller;
+module.exports = router;
