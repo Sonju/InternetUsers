@@ -6,7 +6,7 @@ controller.get('/', function(req, res, next) {
   res.render('index', { title: 'Africa Mobile Subscriptions API' });
 });
 
-controller.get('/table', function(req, res, next) {
+controller.get('/countries', function(req, res, next) {
   res.render('countries', { title: 'Africa Mobile Subscriptions API' });
 });
 
