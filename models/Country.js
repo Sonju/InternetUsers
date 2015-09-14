@@ -3,8 +3,8 @@ var mongoose = require('mongoose');
 // 1st Declare a schema
   // Blueprint for objects
 var CountrySchema = new mongoose.Schema({
+  country: String,
   year: String,
-  name: String,
   value: Number,
 });
 
