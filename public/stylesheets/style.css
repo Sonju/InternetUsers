@@ -1,9 +1,12 @@
 body {
-  background-image: url("/public/images/mobile_antennas.png");
+  background-image: url("/images/mobile_antennas.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: white !important; }
 
 a {
-  color: #00b7ff; }
+  color: #110f10; }
 
 /*# sourceMappingURL=style.css.map */

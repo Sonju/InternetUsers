@@ -9,20 +9,20 @@
         <section ng-app="africaApp">
 
 
-        <label>Search by Country: <input ng-model="search.name" placeholder="ex. Kenya"></label>
+        <label>Search by Country: <input ng-model="search.name" placeholder="ex. Kenya" style="color: black"></label>
 
         <hr />
 
           <table ng-controller="countriesController">
             <tr>
               <th>Country Name</th>
-                <th>Subscriptions (per 100)</th>
-                  <th>Year</th>
+                <th style="padding: 0 10px">Subscriptions (per 100)</th>
+                  <th style="padding: 0 10px">Year</th>
             </tr>
             <tr ng-repeat="country in countries | filter:search.name">
               <td> {{ country.Country }} </td>
-                <td> {{ country.Value | number:0 }} </td>
-                  <td> {{ country.Year }} </td>
+                <td style="text-align: center"> {{ country.Value | number:0 }} </td>
+                  <td style="text-align: center"> {{ country.Year }} </td>
             </tr>
           </table>
 
