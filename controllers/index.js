@@ -6,13 +6,15 @@ controller.get('/', function(req, res, next) {
   res.render('index', { title: 'Africa Mobile Subscriptions API' });
 });
 
+
+/* GET country table view page */
 controller.get('/countries', function(req, res, next) {
   res.render('countries', { title: 'Africa Mobile Subscriptions API' });
 });
 
-/* GET angular view page */
-controller.get('/api', function(req, res, next) {
-  res.json({"test": "hi"})
-});
+// /* GET Test page */
+// controller.get('/api', function(req, res, next) {
+//   res.json({"test": "hi"})
+// });
 
 module.exports = controller;
