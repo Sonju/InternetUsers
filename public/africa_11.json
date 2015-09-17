@@ -1,0 +1,2255 @@
+{
+type: "FeatureCollection",
+features: [
+{
+type: "Feature",
+properties: {
+OBJECTID: 5,
+COUNTRY: "Algeria",
+ISO_CC: "DZ",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Algeria",
+Shape_STAr: 213.064344701,
+Shape_STLe: 76.4926784287
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 6,
+COUNTRY: "Algeria",
+ISO_CC: "DZ",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Algeria",
+Shape_STAr: 0.000056916481092,
+Shape_STLe: 0.0438554761722
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 7,
+COUNTRY: "Algeria",
+ISO_CC: "DZ",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Algeria",
+Shape_STAr: 0.000168894950097,
+Shape_STLe: 0.316232231384
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 9,
+COUNTRY: "Angola",
+ISO_CC: "AO",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Angola",
+Shape_STAr: 103.769594872,
+Shape_STLe: 69.7045542557
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 10,
+COUNTRY: "Angola",
+ISO_CC: "AO",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Angola",
+Shape_STAr: 0.0166284499052,
+Shape_STLe: 2.85477794389
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 11,
+COUNTRY: "Angola",
+ISO_CC: "AO",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Angola",
+Shape_STAr: 0.000625689521669,
+Shape_STLe: 0.856480736388
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 52,
+COUNTRY: "Benin",
+ISO_CC: "BJ",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Benin",
+Shape_STAr: 9.4933426179,
+Shape_STLe: 22.3055411949
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 53,
+COUNTRY: "Benin",
+ISO_CC: "BJ",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Benin",
+Shape_STAr: 0.000140207229243,
+Shape_STLe: 0.107251347883
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 54,
+COUNTRY: "Benin",
+ISO_CC: "BJ",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Benin",
+Shape_STAr: 0.000171894380517,
+Shape_STLe: 0.289786774268
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 60,
+COUNTRY: "Botswana",
+ISO_CC: "BW",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Botswana",
+Shape_STAr: 50.6651492735,
+Shape_STLe: 39.9230021485
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 76,
+COUNTRY: "Burkina Faso",
+ISO_CC: "BF",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Burkina Faso",
+Shape_STAr: 22.7716624571,
+Shape_STLe: 33.3166410022
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 77,
+COUNTRY: "Burundi",
+ISO_CC: "BI",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Burundi",
+Shape_STAr: 2.21548293371,
+Shape_STLe: 9.35505140712
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 81,
+COUNTRY: "Cameroon",
+ISO_CC: "CM",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Cameroon",
+Shape_STAr: 37.9486791123,
+Shape_STLe: 60.6828035935
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 82,
+COUNTRY: "Cameroon",
+ISO_CC: "CM",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Cameroon",
+Shape_STAr: 0.0459422078972,
+Shape_STLe: 6.03774188201
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 83,
+COUNTRY: "Cameroon",
+ISO_CC: "CM",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Cameroon",
+Shape_STAr: 0.000629135452726,
+Shape_STLe: 0.983223163161
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 89,
+COUNTRY: "Cape Verde",
+ISO_CC: "CV",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Cape Verde",
+Shape_STAr: 0.120308313849,
+Shape_STLe: 2.33867625204
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 90,
+COUNTRY: "Cape Verde",
+ISO_CC: "CV",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Cape Verde",
+Shape_STAr: 0.224786965051,
+Shape_STLe: 7.30657369746
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 91,
+COUNTRY: "Cape Verde",
+ISO_CC: "CV",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Cape Verde",
+Shape_STAr: 0.000055793384941,
+Shape_STLe: 0.100839124818
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 94,
+COUNTRY: "Central African Republic",
+ISO_CC: "CF",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Central African Republic",
+Shape_STAr: 50.7387022061,
+Shape_STLe: 52.5342874615
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 95,
+COUNTRY: "Chad",
+ISO_CC: "TD",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Chad",
+Shape_STAr: 107.211900749,
+Shape_STLe: 58.6735104802
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 113,
+COUNTRY: "Comoros",
+ISO_CC: "KM",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Comoros",
+Shape_STAr: 0.0847079196359,
+Shape_STLe: 1.59232068029
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 114,
+COUNTRY: "Comoros",
+ISO_CC: "KM",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Comoros",
+Shape_STAr: 0.053954131503,
+Shape_STLe: 2.31057262015
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 115,
+COUNTRY: "Comoros",
+ISO_CC: "KM",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Comoros",
+Shape_STAr: 0.000144166373367,
+Shape_STLe: 0.134617992485
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 116,
+COUNTRY: "Congo",
+ISO_CC: "CG",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Congo",
+Shape_STAr: 27.830049067,
+Shape_STLe: 48.2473690735
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 117,
+COUNTRY: "Congo",
+ISO_CC: "CG",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Congo",
+Shape_STAr: 0.000197824225227,
+Shape_STLe: 0.0946959970297
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 118,
+COUNTRY: "Congo",
+ISO_CC: "CG",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Congo",
+Shape_STAr: 0.000092757841649,
+Shape_STLe: 0.104310768336
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 124,
+COUNTRY: "Côte d'Ivoire",
+ISO_CC: "CI",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Côte d'Ivoire",
+Shape_STAr: 26.2882950805,
+Shape_STLe: 46.2297931812
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 125,
+COUNTRY: "Côte d'Ivoire",
+ISO_CC: "CI",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Côte d'Ivoire",
+Shape_STAr: 0.00562434195277,
+Shape_STLe: 1.0423538651
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 126,
+COUNTRY: "Côte d'Ivoire",
+ISO_CC: "CI",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Côte d'Ivoire",
+Shape_STAr: 0.000384649368251,
+Shape_STLe: 0.482157211892
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 140,
+COUNTRY: "Congo DRC",
+ISO_CC: "CD",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Democratic Republic of the Congo",
+Shape_STAr: 190.008447202,
+Shape_STLe: 99.2564625885
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 141,
+COUNTRY: "Congo DRC",
+ISO_CC: "CD",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Democratic Republic of the Congo",
+Shape_STAr: 0.014396879889,
+Shape_STLe: 1.66222330386
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 142,
+COUNTRY: "Congo DRC",
+ISO_CC: "CD",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Democratic Republic of the Congo",
+Shape_STAr: 0.000507235495758,
+Shape_STLe: 0.608011191846
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 147,
+COUNTRY: "Djibouti",
+ISO_CC: "DJ",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Djibouti",
+Shape_STAr: 1.79644268967,
+Shape_STLe: 8.44845317548
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 148,
+COUNTRY: "Djibouti",
+ISO_CC: "DJ",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Djibouti",
+Shape_STAr: 0.000414686595273,
+Shape_STLe: 0.200838789725
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 149,
+COUNTRY: "Djibouti",
+ISO_CC: "DJ",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Djibouti",
+Shape_STAr: 0.000224094190357,
+Shape_STLe: 0.2677028337
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 158,
+COUNTRY: "Egypt",
+ISO_CC: "EG",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Egypt",
+Shape_STAr: 83.5853072287,
+Shape_STLe: 47.7597984284
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 159,
+COUNTRY: "Egypt",
+ISO_CC: "EG",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Egypt",
+Shape_STAr: 0.0152244421594,
+Shape_STLe: 2.48507844917
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 160,
+COUNTRY: "Egypt",
+ISO_CC: "EG",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Egypt",
+Shape_STAr: 0.000371704338335,
+Shape_STLe: 0.492025412705
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 167,
+COUNTRY: "Equatorial Guinea",
+ISO_CC: "GQ",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Equatorial Guinea",
+Shape_STAr: 0.158793329206,
+Shape_STLe: 1.99848738405
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 168,
+COUNTRY: "Equatorial Guinea",
+ISO_CC: "GQ",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Equatorial Guinea",
+Shape_STAr: 2.0151890587,
+Shape_STLe: 8.37511149119
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 169,
+COUNTRY: "Equatorial Guinea",
+ISO_CC: "GQ",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Equatorial Guinea",
+Shape_STAr: 0.00481175036947,
+Shape_STLe: 0.686996649704
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 170,
+COUNTRY: "Equatorial Guinea",
+ISO_CC: "GQ",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Equatorial Guinea",
+Shape_STAr: 0.000163978020855,
+Shape_STLe: 0.185353171961
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 171,
+COUNTRY: "Eritrea",
+ISO_CC: "ER",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Eritrea",
+Shape_STAr: 0.0558656512562,
+Shape_STLe: 2.93251303533
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 172,
+COUNTRY: "Eritrea",
+ISO_CC: "ER",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Eritrea",
+Shape_STAr: 10.2167343794,
+Shape_STLe: 28.8041550331
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 173,
+COUNTRY: "Eritrea",
+ISO_CC: "ER",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Eritrea",
+Shape_STAr: 0.0580026876987,
+Shape_STLe: 10.8487280006
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 174,
+COUNTRY: "Eritrea",
+ISO_CC: "ER",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Eritrea",
+Shape_STAr: 0.00235139288294,
+Shape_STLe: 2.59831654662
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 179,
+COUNTRY: "Ethiopia",
+ISO_CC: "ET",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Ethiopia",
+Shape_STAr: 92.7211144679,
+Shape_STLe: 51.9989493049
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 194,
+COUNTRY: "French Southern Territories",
+ISO_CC: "TF",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "France",
+Shape_STAr: 0.00719441948482,
+Shape_STLe: 1.10493165477
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 195,
+COUNTRY: "French Southern Territories",
+ISO_CC: "TF",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "France",
+Shape_STAr: 0.000023462458316,
+Shape_STLe: 0.029907744788
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 199,
+COUNTRY: "Gabon",
+ISO_CC: "GA",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Gabon",
+Shape_STAr: 21.1642204304,
+Shape_STLe: 60.2543397696
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 200,
+COUNTRY: "Gabon",
+ISO_CC: "GA",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Gabon",
+Shape_STAr: 0.0973049813358,
+Shape_STLe: 9.33078935598
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 201,
+COUNTRY: "Gabon",
+ISO_CC: "GA",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Gabon",
+Shape_STAr: 0.00177927336434,
+Shape_STLe: 2.3463484251
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 202,
+COUNTRY: "Gambia",
+ISO_CC: "GM",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Gambia",
+Shape_STAr: 0.885637084203,
+Shape_STLe: 14.4027291379
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 203,
+COUNTRY: "Gambia",
+ISO_CC: "GM",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Gambia",
+Shape_STAr: 0.00105564975488,
+Shape_STLe: 0.173055900186
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 204,
+COUNTRY: "Gambia",
+ISO_CC: "GM",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Gambia",
+Shape_STAr: 0.00003018678148,
+Shape_STLe: 0.0401500220715
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 212,
+COUNTRY: "Ghana",
+ISO_CC: "GH",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Ghana",
+Shape_STAr: 19.5752193524,
+Shape_STLe: 30.0381468606
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 213,
+COUNTRY: "Ghana",
+ISO_CC: "GH",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Ghana",
+Shape_STAr: 0.00209460931714,
+Shape_STLe: 0.810261842972
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 214,
+COUNTRY: "Ghana",
+ISO_CC: "GH",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Ghana",
+Shape_STAr: 0.000401279617411,
+Shape_STLe: 0.499503976197
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 233,
+COUNTRY: "Guinea",
+ISO_CC: "GN",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Guinea",
+Shape_STAr: 20.129469303,
+Shape_STLe: 50.5261523719
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 234,
+COUNTRY: "Guinea",
+ISO_CC: "GN",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Guinea",
+Shape_STAr: 0.079908627823,
+Shape_STLe: 7.70690580562
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 235,
+COUNTRY: "Guinea",
+ISO_CC: "GN",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Guinea",
+Shape_STAr: 0.000294207387507,
+Shape_STLe: 0.380992436621
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 236,
+COUNTRY: "Guinea-Bissau",
+ISO_CC: "GW",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Guinea-Bissau",
+Shape_STAr: 2.63780404057,
+Shape_STLe: 35.1836769932
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 237,
+COUNTRY: "Guinea-Bissau",
+ISO_CC: "GW",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Guinea-Bissau",
+Shape_STAr: 0.161913358946,
+Shape_STLe: 14.6659635243
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 238,
+COUNTRY: "Guinea-Bissau",
+ISO_CC: "GW",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Guinea-Bissau",
+Shape_STAr: 0.000994446616019,
+Shape_STLe: 1.31565754452
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 291,
+COUNTRY: "Kenya",
+ISO_CC: "KE",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Kenya",
+Shape_STAr: 48.2185039967,
+Shape_STLe: 41.6922485236
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 292,
+COUNTRY: "Kenya",
+ISO_CC: "KE",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Kenya",
+Shape_STAr: 0.0243260587225,
+Shape_STLe: 2.61691980938
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 293,
+COUNTRY: "Kenya",
+ISO_CC: "KE",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Kenya",
+Shape_STAr: 0.000801178116099,
+Shape_STLe: 0.957644699163
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 306,
+COUNTRY: "Lesotho",
+ISO_CC: "LS",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Lesotho",
+Shape_STAr: 2.84530645067,
+Shape_STLe: 9.81300041262
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 307,
+COUNTRY: "Liberia",
+ISO_CC: "LR",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Liberia",
+Shape_STAr: 7.83451942707,
+Shape_STLe: 24.0792142293
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 308,
+COUNTRY: "Liberia",
+ISO_CC: "LR",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Liberia",
+Shape_STAr: 0.000152242250184,
+Shape_STLe: 0.190293857965
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 309,
+COUNTRY: "Libya",
+ISO_CC: "LY",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Libya",
+Shape_STAr: 147.107951478,
+Shape_STLe: 61.5814930604
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 310,
+COUNTRY: "Libya",
+ISO_CC: "LY",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Libya",
+Shape_STAr: 0.000124413151264,
+Shape_STLe: 0.0465937997686
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 311,
+COUNTRY: "Libya",
+ISO_CC: "LY",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Libya",
+Shape_STAr: 0.000066418480923,
+Shape_STLe: 0.102100471397
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 317,
+COUNTRY: "Madagascar",
+ISO_CC: "MG",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Madagascar",
+Shape_STAr: 50.725160209,
+Shape_STLe: 118.81399449
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 318,
+COUNTRY: "Madagascar",
+ISO_CC: "MG",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Madagascar",
+Shape_STAr: 0.103753261761,
+Shape_STLe: 15.2251177358
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 319,
+COUNTRY: "Madagascar",
+ISO_CC: "MG",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Madagascar",
+Shape_STAr: 0.00640014004787,
+Shape_STLe: 8.6169905432
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 320,
+COUNTRY: "Malawi",
+ISO_CC: "MW",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Malawi",
+Shape_STAr: 9.8895429183,
+Shape_STLe: 27.216859734
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 327,
+COUNTRY: "Mali",
+ISO_CC: "ML",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Mali",
+Shape_STAr: 106.671552548,
+Shape_STLe: 72.2292990969
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 333,
+COUNTRY: "Mauritania",
+ISO_CC: "MR",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Mauritania",
+Shape_STAr: 89.931354291,
+Shape_STLe: 56.625348106
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 334,
+COUNTRY: "Mauritania",
+ISO_CC: "MR",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Mauritania",
+Shape_STAr: 0.0220957234442,
+Shape_STLe: 1.74449845709
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 335,
+COUNTRY: "Mauritania",
+ISO_CC: "MR",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Mauritania",
+Shape_STAr: 0.000241059117049,
+Shape_STLe: 0.280054312379
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 336,
+COUNTRY: "Mauritius",
+ISO_CC: "MU",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Mauritius",
+Shape_STAr: 0.161588461313,
+Shape_STLe: 2.44371825987
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 337,
+COUNTRY: "Mauritius",
+ISO_CC: "MU",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Mauritius",
+Shape_STAr: 0.0129307669907,
+Shape_STLe: 1.55249780121
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 338,
+COUNTRY: "Mauritius",
+ISO_CC: "MU",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Mauritius",
+Shape_STAr: 0.000558239628923,
+Shape_STLe: 0.742092557176
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 352,
+COUNTRY: "Morocco",
+ISO_CC: "MA",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Morocco",
+Shape_STAr: 62.9802150755,
+Shape_STLe: 63.153409387
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 353,
+COUNTRY: "Morocco",
+ISO_CC: "MA",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Morocco",
+Shape_STAr: 0.000052027120189,
+Shape_STLe: 0.0348691962864
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 354,
+COUNTRY: "Morocco",
+ISO_CC: "MA",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Morocco",
+Shape_STAr: 0.000231739530449,
+Shape_STLe: 0.318517945748
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 355,
+COUNTRY: "Mozambique",
+ISO_CC: "MZ",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Mozambique",
+Shape_STAr: 66.8574550797,
+Shape_STLe: 120.434994291
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 356,
+COUNTRY: "Mozambique",
+ISO_CC: "MZ",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Mozambique",
+Shape_STAr: 0.0874193525156,
+Shape_STLe: 11.6150470124
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 357,
+COUNTRY: "Mozambique",
+ISO_CC: "MZ",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Mozambique",
+Shape_STAr: 0.00418915576191,
+Shape_STLe: 5.53917709627
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 362,
+COUNTRY: "Namibia",
+ISO_CC: "NA",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Namibia",
+Shape_STAr: 72.2649084934,
+Shape_STLe: 53.9531857197
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 363,
+COUNTRY: "Namibia",
+ISO_CC: "NA",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Namibia",
+Shape_STAr: 0.000796805783589,
+Shape_STLe: 0.326680667787
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 364,
+COUNTRY: "Namibia",
+ISO_CC: "NA",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Namibia",
+Shape_STAr: 0.000173435293092,
+Shape_STLe: 0.257923355963
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 379,
+COUNTRY: "Niger",
+ISO_CC: "NE",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Niger",
+Shape_STAr: 100.557207403,
+Shape_STLe: 53.863716809
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 380,
+COUNTRY: "Nigeria",
+ISO_CC: "NG",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Nigeria",
+Shape_STAr: 74.4385932749,
+Shape_STLe: 104.169665683
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 381,
+COUNTRY: "Nigeria",
+ISO_CC: "NG",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Nigeria",
+Shape_STAr: 0.398634042573,
+Shape_STLe: 32.6602118354
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 382,
+COUNTRY: "Nigeria",
+ISO_CC: "NG",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Nigeria",
+Shape_STAr: 0.00136652050964,
+Shape_STLe: 1.69668445896
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 431,
+COUNTRY: "Madeira",
+ISO_CC: "PT",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Portugal",
+Shape_STAr: 0.0720557960326,
+Shape_STLe: 1.56423956357
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 437,
+COUNTRY: "Réunion",
+ISO_CC: "RE",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "France",
+Shape_STAr: 0.218509593956,
+Shape_STLe: 1.99391355141
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 451,
+COUNTRY: "Rwanda",
+ISO_CC: "RW",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Rwanda",
+Shape_STAr: 2.05788442548,
+Shape_STLe: 8.50349631915
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 452,
+COUNTRY: "Saint Helena",
+ISO_CC: "SH",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "United Kingdom",
+Shape_STAr: 0.0394082097215,
+Shape_STLe: 2.05228225004
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 453,
+COUNTRY: "Saint Helena",
+ISO_CC: "SH",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "United Kingdom",
+Shape_STAr: 0.00005125599929,
+Shape_STLe: 0.0672097987559
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 463,
+COUNTRY: "Sao Tome and Principe",
+ISO_CC: "ST",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Sao Tome and Principe",
+Shape_STAr: 0.0695445680824,
+Shape_STLe: 1.44358788584
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 464,
+COUNTRY: "Sao Tome and Principe",
+ISO_CC: "ST",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Sao Tome and Principe",
+Shape_STAr: 0.0118739778531,
+Shape_STLe: 0.817807503866
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 465,
+COUNTRY: "Sao Tome and Principe",
+ISO_CC: "ST",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Sao Tome and Principe",
+Shape_STAr: 0.000122598384262,
+Shape_STLe: 0.120796452867
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 469,
+COUNTRY: "Senegal",
+ISO_CC: "SN",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Senegal",
+Shape_STAr: 16.3036445863,
+Shape_STLe: 53.4593843187
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 470,
+COUNTRY: "Senegal",
+ISO_CC: "SN",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Senegal",
+Shape_STAr: 0.0599820742952,
+Shape_STLe: 5.96101398827
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 471,
+COUNTRY: "Senegal",
+ISO_CC: "SN",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Senegal",
+Shape_STAr: 0.000959515320572,
+Shape_STLe: 1.03697308974
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 473,
+COUNTRY: "Seychelles",
+ISO_CC: "SC",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Seychelles",
+Shape_STAr: 0.00000265646182,
+Shape_STLe: 0.00827821952773
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 474,
+COUNTRY: "Seychelles",
+ISO_CC: "SC",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Seychelles",
+Shape_STAr: 0.0392109271198,
+Shape_STLe: 5.74821310715
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 475,
+COUNTRY: "Seychelles",
+ISO_CC: "SC",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Seychelles",
+Shape_STAr: 0.000830653032651,
+Shape_STLe: 0.991974916664
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 476,
+COUNTRY: "Sierra Leone",
+ISO_CC: "SL",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Sierra Leone",
+Shape_STAr: 5.92566247724,
+Shape_STLe: 25.3688969049
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 477,
+COUNTRY: "Sierra Leone",
+ISO_CC: "SL",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Sierra Leone",
+Shape_STAr: 0.0139309336672,
+Shape_STLe: 3.09148053906
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 478,
+COUNTRY: "Sierra Leone",
+ISO_CC: "SL",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Sierra Leone",
+Shape_STAr: 0.00112726332909,
+Shape_STLe: 1.24291101211
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 489,
+COUNTRY: "Somalia",
+ISO_CC: "SO",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Somalia",
+Shape_STAr: 51.7720450573,
+Shape_STLe: 53.1044495515
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 490,
+COUNTRY: "Somalia",
+ISO_CC: "SO",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Somalia",
+Shape_STAr: 0.00286575665889,
+Shape_STLe: 1.1052020916
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 491,
+COUNTRY: "Somalia",
+ISO_CC: "SO",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Somalia",
+Shape_STAr: 0.000608079867675,
+Shape_STLe: 0.909040846276
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 492,
+COUNTRY: "South Africa",
+ISO_CC: "ZA",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "South Africa",
+Shape_STAr: 113.065784725,
+Shape_STLe: 88.9447901122
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 493,
+COUNTRY: "South Africa",
+ISO_CC: "ZA",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "South Africa",
+Shape_STAr: 0.0416147137504,
+Shape_STLe: 1.4990098995
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 494,
+COUNTRY: "South Africa",
+ISO_CC: "ZA",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "South Africa",
+Shape_STAr: 0.000646931398251,
+Shape_STLe: 0.870034958474
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 509,
+COUNTRY: "Swaziland",
+ISO_CC: "SZ",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Swaziland",
+Shape_STAr: 1.57391067868,
+Shape_STLe: 5.16860453111
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 518,
+COUNTRY: "Tanzania",
+ISO_CC: "TZ",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Tanzania",
+Shape_STAr: 0.131954362586,
+Shape_STLe: 3.32913667835
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 519,
+COUNTRY: "Tanzania",
+ISO_CC: "TZ",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Tanzania",
+Shape_STAr: 76.5925822065,
+Shape_STLe: 56.0700929791
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 520,
+COUNTRY: "Tanzania",
+ISO_CC: "TZ",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Tanzania",
+Shape_STAr: 0.147801761479,
+Shape_STLe: 10.6398396873
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 521,
+COUNTRY: "Tanzania",
+ISO_CC: "TZ",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Tanzania",
+Shape_STAr: 0.00146045736402,
+Shape_STLe: 1.82760769827
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 528,
+COUNTRY: "Togo",
+ISO_CC: "TG",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Togo",
+Shape_STAr: 4.65425094645,
+Shape_STLe: 17.237576765
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 529,
+COUNTRY: "Togo",
+ISO_CC: "TG",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Togo",
+Shape_STAr: 0.00014111257436,
+Shape_STLe: 0.056133373434
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 530,
+COUNTRY: "Togo",
+ISO_CC: "TG",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Togo",
+Shape_STAr: 0.000007664979976,
+Shape_STLe: 0.0288420237876
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 540,
+COUNTRY: "Tunisia",
+ISO_CC: "TN",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Tunisia",
+Shape_STAr: 15.0871524638,
+Shape_STLe: 29.7156784809
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 541,
+COUNTRY: "Tunisia",
+ISO_CC: "TN",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Tunisia",
+Shape_STAr: 0.0678074983493,
+Shape_STLe: 3.74796004748
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 542,
+COUNTRY: "Tunisia",
+ISO_CC: "TN",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Tunisia",
+Shape_STAr: 0.00052855046518,
+Shape_STLe: 0.698612756786
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 556,
+COUNTRY: "Uganda",
+ISO_CC: "UG",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Uganda",
+Shape_STAr: 19.6280448821,
+Shape_STLe: 23.6838253824
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 584,
+COUNTRY: "Yemen",
+ISO_CC: "YE",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Yemen",
+Shape_STAr: 0.300089593956,
+Shape_STLe: 3.10015631886
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 585,
+COUNTRY: "Yemen",
+ISO_CC: "YE",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Yemen",
+Shape_STAr: 0.0152997087713,
+Shape_STLe: 1.36765840003
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 586,
+COUNTRY: "Yemen",
+ISO_CC: "YE",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Yemen",
+Shape_STAr: 0.000061818253836,
+Shape_STLe: 0.064616517514
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 590,
+COUNTRY: "Zambia",
+ISO_CC: "ZM",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Zambia",
+Shape_STAr: 62.7546021534,
+Shape_STLe: 55.9020582797
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 591,
+COUNTRY: "Zimbabwe",
+ISO_CC: "ZW",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Zimbabwe",
+Shape_STAr: 33.5337452238,
+Shape_STLe: 29.7106516526
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 595,
+COUNTRY: "Sudan",
+ISO_CC: "SD",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Sudan",
+Shape_STAr: 158.116520828,
+Shape_STLe: 75.736190305
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 596,
+COUNTRY: "Sudan",
+ISO_CC: "SD",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Sudan",
+Shape_STAr: 0.008045386465,
+Shape_STLe: 2.45116603923
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 597,
+COUNTRY: "Sudan",
+ISO_CC: "SD",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Sudan",
+Shape_STAr: 0.00116503088456,
+Shape_STLe: 1.60392084599
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 598,
+COUNTRY: "South Sudan",
+ISO_CC: "SS",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "South Sudan",
+Shape_STAr: 51.1480735826,
+Shape_STLe: 47.3352356214
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 601,
+COUNTRY: "Canarias",
+ISO_CC: "ES",
+CONTINENT: "Africa",
+Land_Type: "Medium island",
+Land_Rank: 3,
+COUNTRYAFF: "Spain",
+Shape_STAr: 0.627525313759,
+Shape_STLe: 10.3139532046
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 602,
+COUNTRY: "Canarias",
+ISO_CC: "ES",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Spain",
+Shape_STAr: 0.0636409495262,
+Shape_STLe: 2.29579075833
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 603,
+COUNTRY: "Canarias",
+ISO_CC: "ES",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Spain",
+Shape_STAr: 0.000046458388531,
+Shape_STLe: 0.107185752523
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 604,
+COUNTRY: "Spain",
+ISO_CC: "ES",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Spain",
+Shape_STAr: 0.000058962630357,
+Shape_STLe: 0.0623101821534
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 605,
+COUNTRY: "Spain",
+ISO_CC: "ES",
+CONTINENT: "Africa",
+Land_Type: "Primary land",
+Land_Rank: 5,
+COUNTRYAFF: "Spain",
+Shape_STAr: 0.00340551469055,
+Shape_STLe: 0.496936883198
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 612,
+COUNTRY: "Madeira",
+ISO_CC: "PT",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "Portugal",
+Shape_STAr: 0.000100924422177,
+Shape_STLe: 0.137844989434
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 613,
+COUNTRY: "Madeira",
+ISO_CC: "PT",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "Portugal",
+Shape_STAr: 0.0066855431892,
+Shape_STLe: 1.15606148405
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 616,
+COUNTRY: "Mayotte",
+ISO_CC: "FR",
+CONTINENT: "Africa",
+Land_Type: "Small island",
+Land_Rank: 2,
+COUNTRYAFF: "France",
+Shape_STAr: 0.0324611880792,
+Shape_STLe: 1.93636862005
+},
+geometry: null
+},
+{
+type: "Feature",
+properties: {
+OBJECTID: 617,
+COUNTRY: "Mayotte",
+ISO_CC: "FR",
+CONTINENT: "Africa",
+Land_Type: "Very small island",
+Land_Rank: 1,
+COUNTRYAFF: "France",
+Shape_STAr: 0.000151713759075,
+Shape_STLe: 0.190866892007
+},
+geometry: null
+}
+]
+}
