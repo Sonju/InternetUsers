@@ -12,7 +12,6 @@ require('./models/db');
 // controller = changed folder routes to controllers
 var routes = require('./controllers/index');
 var countries = require('./controllers/countries');
-var map = require('./controllers/map');
 
 // start app
 var app = express();
