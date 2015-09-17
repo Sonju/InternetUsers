@@ -10,8 +10,19 @@ a {
   color: rgb(238, 204, 145);
 }
 
+#data-map {
+  padding-left: 50px;
+  font-size: 1.60rem;
+}
+
+a:hover {
+  background-color: white;
+  text-decoration: none;
+}
+
 #footer {
+  position: fixed!important;
   bottom: 0!important;
   left: 0!important;
-  margin-left: 50%;
+  margin-left: 43%;
 }

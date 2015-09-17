@@ -11,16 +11,18 @@
 
         <label>Search by Country: <input ng-model="search.name" placeholder="ex. Kenya" style="color: black"></label>
 
+        <span id="data-map"><a href="http://bl.ocks.org/chule/ac6d94c9df9919fdd4f2">Data Map</a></span>
+
         <hr />
 
           <table ng-controller="countriesController">
             <tr>
-              <th>Country Name</th>
-                <th style="padding: 0 10px">Subscriptions (per 100)</th>
-                  <th style="padding: 0 25px">Year</th>
+              <th style="padding: 0 10px">Country Name</th>
+                <th style="padding: 0 25px">Subscriptions (per 100)</th>
+                  <th style="padding: 0 35px">Year</th>
             </tr>
             <tr ng-repeat="country in countries | filter:search.name">
-              <td> {{ country.Country }} </td>
+              <td style="text-align: center"> {{ country.Country }} </td>
                 <td style="text-align: center"> {{ country.Value | number:0 }} </td>
                   <td style="text-align: center"> {{ country.Year }} </td>
             </tr>
