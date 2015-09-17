@@ -9,4 +9,9 @@ body {
 a {
   color: #eecc91; }
 
+#footer {
+  bottom: 0 !important;
+  left: 0 !important;
+  margin-left: 50%; }
+
 /*# sourceMappingURL=style.css.map */
