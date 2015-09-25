@@ -1,7 +1,7 @@
 ## Africa Mobile-Celluar Subscription API 2013
-**Opent sourced API framework with MEAN Stack**
+**Open source API framework using MEAN stack framework.**
 
-The Africa Mobile Subscription API is for businesses, governments, and civic institutions to filter by country the value of mobile subscription in Africa (per 100 people).
+The Africa Mobile Subscription API is for businesses, governments, and civic institutions to filter by country African mobile subscription users (per 100 people).
 ###### Data Source: [UNHCR](http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aIT.CEL.SETS.P2)
 
 
@@ -13,7 +13,7 @@ The Africa Mobile Subscription API is for businesses, governments, and civic ins
 5. D3 (javascript data visualization tool)
 
 ##### Installation
-
+Coming soon
 
 ##### Code
 
