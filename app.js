@@ -12,6 +12,7 @@ require('./models/db');
 // controller = changed folder routes to controllers
 var routes = require('./controllers/index');
 var countries = require('./controllers/countries');
+var africamap = require('./controllers/africamap');
 
 // start app
 var app = express();
@@ -31,6 +32,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
 app.use('/countries', countries); // countries controller will be mapped to index '/countries'
+app.use('/africamap', africamap); // africamap controller will be mapped to index '/map'
 
 
 // catch 404 and forward to error handler
