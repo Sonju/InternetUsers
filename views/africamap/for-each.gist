@@ -1,0 +1,14 @@
+d3.json(africamap.geojson, function(json) {
+  json.forEach(d3.json($scope.countries, function(date)){
+    data.forEach {
+    function(x,y) {
+      if(x.code == json.id) {
+      subscriber = x.value;
+        if(subscriber <= 49) {
+          colorval = #00ff77;
+        }
+      }
+    }
+    }
+  })
+});

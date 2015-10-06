@@ -36,8 +36,17 @@ div.tooltip {
 }
 
 </style>
+
+  <div id="africamap">
+    <svg></svg>
+  </div>
+
 <body>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+<script type="text/javascript" src="/javascripts/lib/d3.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
+
+ <h2 style="margin: 5% 0 0 7%">Mobile Subscriptions (per 100) 2013</h2>
 <script>
 
 //Map dimensions (in pixels)
@@ -131,4 +140,5 @@ function moveTooltip() {
 function hideTooltip() {
   tooltip.style("display","none");
 }
+
 </script>
