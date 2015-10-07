@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
 
 // 1st - need a connection string
-var connectionString = 'mongodb://localhost/mobiledb';
+var connectionString = 'mongodb://mongouser:Blackshoe10!@ds029297.mongolab.com:29297/mobiledb';
 
 // 2nd - need to make connection
 mongoose.connect(connectionString);
