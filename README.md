@@ -11,17 +11,17 @@ The Africa Mobile Subscription API is for businesses, governments, and civic ins
 3. Node
 4. Angular
 5. Mapstarter.com
-6. D3 (javascript data visualization tool)
+6. D3.js
 
 ##### Installation
- Go to Sonju GitHub page and clone africa-mobile-subscribers repository  
- 1. Open your preferred Mongo database. The author used Mongo Hub and input database values
- 2. In terminal change directories to africa-mobile-subscribers
- 3. Type 'npm install' then 'npm start'. The server should connect.
+ Go to GitHub and clone africa-mobile-subscribers repository  
+ 1. Connect to MongoDB. The author used Mongo Hub.
+ 2. In terminal change into 'africa-mobile-subscribers' directory
+ 3. In terminal run 'npm install' then 'npm start'. The server should connect.
  4. Browse to localhost:3000
 
 ##### Code
-HTTP API
+HTTP API call
 ```javascript
 
 var africaApp = angular.module('africaApp', []);
@@ -50,17 +50,12 @@ africaApp.controller('countriesController', function($scope, $http) {
   --------|-------|-----
   Kenya |  71 | 2013
 
-##### Images
-App screenshots
 
+##### Page Views
 background image open source: pixabay.com
 ![Image](/public/screenshots/home_page.png)
-
 ![Image](/public/screenshots/countryData_page.png)
-
 ![Image](/public/screenshots/search_filter.png)
-
-App 2.0 Version will have map
 ![Image](/public/screenshots/map.png)
 
 ##### 2.0 Iteration
